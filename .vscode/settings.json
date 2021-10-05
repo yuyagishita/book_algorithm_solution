@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "/Users/yu.yagishita/.pyenv/versions/3.8.2/bin/python",
+    "[python]": {
+        "editor.formatOnSave": true,
+    },
+}
