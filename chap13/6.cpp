@@ -1,7 +1,4 @@
-#include <iostream>
-#include <set>
-#include <stack>
-#include <vector>
+#include <bits/stdc++.h>
 using namespace std;
 using Graph = vector<vector<int>>;
 
